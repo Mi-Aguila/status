@@ -3,20 +3,20 @@ repo: status
 
 sites:
   - name: Admin Frontend
-    url: https://admin.transport.miaguila.com/
+    url: https://admin.miaguila.com/
   - name: Client Frontend
-    url: https://client.transport.miaguila.com/
+    url: https://client.miaguila.com/
   - name: Admin Api
     url: https://admin.api.transport.miaguila.com/
   - name: Client Api
-    url: https://client.api.transport.miaguila.com/
+    url: https://client.api.prd.miaguila.com/
   - name: Driver Api
-    url: https://driver.api.transport.miaguila.com/
+    url: https://driver.api.prd.miaguila.com/
   - name: Fuecs api
-    url: https://fuecs.api.transport.miaguila.com/api/v1/pdf
+    url: https://fuecs.api.prd.miaguila.com/api/v1/pdf
 
 status-website:
-  cname: status.transport.miaguila.com
+  cname: status.prd.miaguila.com
   logoUrl: https://www.miaguila.com/favicon.ico
   name: Mi Aguila status 
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
