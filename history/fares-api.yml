@@ -1,7 +1,7 @@
-url: https://fareschange.api.prd.miaguila.com/
+url: https://fareschange.api.transport.miaguila.com/
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-18T16:03:17.470Z
+code: 404
+responseTime: 176
+lastUpdated: 2025-12-18T16:40:39.771Z
 startTime: 2025-12-18T15:41:46.359Z
 generator: Upptime <https://github.com/upptime/upptime>
