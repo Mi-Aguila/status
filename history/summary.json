@@ -208,18 +208,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/routing-batching.api.prd.miaguila.com.ico",
     "slug": "routing-batching-api",
     "status": "down",
-    "uptime": "3.50%",
-    "uptimeDay": "3.50%",
-    "uptimeWeek": "3.50%",
-    "uptimeMonth": "3.50%",
-    "uptimeYear": "3.50%",
+    "uptime": "1.77%",
+    "uptimeDay": "1.77%",
+    "uptimeWeek": "1.77%",
+    "uptimeMonth": "1.77%",
+    "uptimeYear": "1.77%",
     "time": 321,
     "timeDay": 321,
     "timeWeek": 321,
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 1
     }
   },
   {
@@ -228,18 +228,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trips-dispatcher.api.prd.miaguila.com.ico",
     "slug": "trips-dispatcher-api",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 279,
     "timeDay": 279,
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 1
     }
   },
   {
@@ -248,18 +248,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/control.api.prd.miaguila.com.ico",
     "slug": "control-payments-api",
     "status": "down",
-    "uptime": "2.41%",
-    "uptimeDay": "2.41%",
-    "uptimeWeek": "2.41%",
-    "uptimeMonth": "2.41%",
-    "uptimeYear": "2.41%",
+    "uptime": "1.47%",
+    "uptimeDay": "1.47%",
+    "uptimeWeek": "1.47%",
+    "uptimeMonth": "1.47%",
+    "uptimeYear": "1.47%",
     "time": 237,
     "timeDay": 237,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 1
     }
   },
   {
@@ -268,18 +268,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fareschange.api.transport.miaguila.com.ico",
     "slug": "fares-api",
     "status": "down",
-    "uptime": "5.07%",
-    "uptimeDay": "5.07%",
-    "uptimeWeek": "5.07%",
-    "uptimeMonth": "5.07%",
-    "uptimeYear": "5.07%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 213,
     "timeDay": 213,
     "timeWeek": 213,
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 1
     }
   },
   {
@@ -288,11 +288,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasks-server.api.transport.miaguila.com.ico",
     "slug": "tasks-server-api-celery",
     "status": "down",
-    "uptime": "1.18%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "1.18%",
-    "uptimeYear": "1.18%",
+    "uptime": "1.08%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "1.08%",
+    "uptimeMonth": "1.08%",
+    "uptimeYear": "1.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
