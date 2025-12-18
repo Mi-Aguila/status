@@ -1,7 +1,7 @@
-url: https://routing-batching.api.prd.miaguila.com/status
-status: up
-code: 200
-responseTime: 131
-lastUpdated: 2025-12-18T15:55:07.642Z
+url: https://routing-batching.api.transport.miaguila.com/
+status: down
+code: 404
+responseTime: 440
+lastUpdated: 2025-12-18T15:58:23.801Z
 startTime: 2025-12-18T15:41:40.238Z
 generator: Upptime <https://github.com/upptime/upptime>
