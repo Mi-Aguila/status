@@ -23,13 +23,13 @@ sites:
   - name: FUEC's Api
     url: https://fuecs.api.transport.miaguila.com/api/v1/pdf
   - name: Routing Batching API
-    url: https://routing-batching.api.prd.miaguila.com/status
+    url: https://routing-batching.api.transport.miaguila.com/
   - name: Trips Dispatcher API
     url: https://trips-dispatcher.api.prd.miaguila.com/api/v1/health
   - name: Control Payments Api
     url: https://control.api.prd.miaguila.com/api/v1/health
   - name: Fares Api
-    url: https://fareschange.api.prd.miaguila.com/status
+    url: https://fareschange.api.prd.miaguila.com/
   - name: Tasks Server Api (Celery)
     url: https://tasks-server.api.transport.miaguila.com/v1/health
 #  # Worker's
