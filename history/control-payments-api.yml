@@ -1,7 +1,7 @@
 url: https://control.api.prd.miaguila.com/api/v1/health
 status: down
 code: 503
-responseTime: 210
-lastUpdated: 2025-12-18T19:35:58.186Z
+responseTime: 129
+lastUpdated: 2025-12-18T20:19:25.393Z
 startTime: 2025-12-18T15:41:44.379Z
 generator: Upptime <https://github.com/upptime/upptime>
