@@ -2,18 +2,47 @@ owner: MyEagle-Transport
 repo: status
 
 sites:
-  - name: Admin Frontend
+  # Web's
+  - name: Admin Web
     url: https://admin.miaguila.com/
-  - name: Client Frontend
+  - name: Client Web
     url: https://client.miaguila.com/
+  - name: KPI Web
+    url: https://kpi.prd.miaguila.com/
+  - name: Metabase Web
+    url: https://metabase.prd.miaguila.com/
+  - name: Control Payments Web
+    url: https://control.miaguila.com/
+  # API's
   - name: Admin Api
     url: https://admin.api.transport.miaguila.com/
   - name: Client Api
     url: https://client.api.prd.miaguila.com/
   - name: Driver Api
     url: https://driver.api.prd.miaguila.com/
-  - name: Fuecs api
+  - name: FUEC's Api
     url: https://fuecs.api.transport.miaguila.com/api/v1/pdf
+  - name: Routing Batching API
+    url: https://routing-batching.api.prd.miaguila.com/
+  - name: Trips Dispatcher API
+    url: https://trips-dispatcher.api.prd.miaguila.com/
+  - name: Control Payments Api
+    url: https://control.api.prd.miaguila.com/
+  - name: Fares Api
+    url: https://fareschange.api.transport.miaguila.com/
+  - name: Tasks Server Api (Celery)
+    url: https://tasks-server.api.transport.miaguila.com/v1/health
+#  # Worker's
+#  - name: Finding to Unattended Job
+#    url:
+#  - name: Reserving to Finding Job
+#    url:
+#  - name: Cron Jobs Server
+#    url:
+#  - name: Mongo ETL
+#    url:
+
+
 
 status-website:
   cname: status.prd.miaguila.com
