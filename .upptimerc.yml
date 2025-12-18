@@ -29,7 +29,7 @@ sites:
   - name: Control Payments Api
     url: https://control.api.prd.miaguila.com/api/v1/health
   - name: Fares Api
-    url: https://fareschange.api.transport.miaguila.com/
+    url: https://fareschange.api.transport.miaguila.com/status
   - name: Tasks Server Api (Celery)
     url: https://tasks-server.api.transport.miaguila.com/v1/health/
     expectedStatusCodes:
