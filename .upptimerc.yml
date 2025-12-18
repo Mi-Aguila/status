@@ -59,7 +59,7 @@ status-website:
 # Notificaciones de Slack cuando un servicio está caído
 notifications:
   - type: slack
-    webhook-url: $SLACK_WEBHOOK_URL
+    webhook-url: $NOTIFICATION_SLACK_WEBHOOK_URL
 
 # Asignar issues automáticamente cuando un servicio cae
 assignees:
