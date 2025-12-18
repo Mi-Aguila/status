@@ -32,8 +32,6 @@ sites:
     url: https://fareschange.api.transport.miaguila.com/status
   - name: Tasks Server Api (Celery)
     url: https://tasks-server.api.transport.miaguila.com/v1/health/
-    expectedStatusCodes:
-      - 200
 #  # Worker's
 #  - name: Finding to Unattended Job
 #    url:
