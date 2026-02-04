@@ -1,7 +1,7 @@
 url: https://tasks-server.api.transport.miaguila.com/v1/health/
-status: down
-code: 503
-responseTime: 230
-lastUpdated: 2026-02-04T03:20:44.957Z
+status: up
+code: 200
+responseTime: 352
+lastUpdated: 2026-02-04T04:11:59.720Z
 startTime: 2025-12-18T15:41:48.399Z
 generator: Upptime <https://github.com/upptime/upptime>
