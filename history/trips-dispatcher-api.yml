@@ -1,7 +1,7 @@
 url: https://trips-dispatcher.api.prd.miaguila.com/api/v1/health
 status: up
 code: 200
-responseTime: 178
-lastUpdated: 2026-02-26T00:39:18.921Z
+responseTime: 176
+lastUpdated: 2026-02-26T06:28:34.579Z
 startTime: 2025-12-18T15:41:42.400Z
 generator: Upptime <https://github.com/upptime/upptime>
