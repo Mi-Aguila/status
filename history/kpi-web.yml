@@ -1,7 +1,7 @@
 url: https://kpi.prd.miaguila.com/
-status: down
-code: 503
-responseTime: 227
-lastUpdated: 2026-03-09T12:20:19.699Z
+status: up
+code: 200
+responseTime: 272
+lastUpdated: 2026-03-09T12:24:11.292Z
 startTime: 2025-12-18T15:41:36.381Z
 generator: Upptime <https://github.com/upptime/upptime>
