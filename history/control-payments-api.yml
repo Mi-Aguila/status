@@ -1,7 +1,7 @@
 url: https://control.api.prd.miaguila.com/api/v1/health
 status: up
 code: 200
-responseTime: 270
-lastUpdated: 2026-06-06T01:05:05.010Z
+responseTime: 249
+lastUpdated: 2026-06-06T07:14:14.843Z
 startTime: 2025-12-18T15:41:44.379Z
 generator: Upptime <https://github.com/upptime/upptime>
